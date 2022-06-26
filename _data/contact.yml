@@ -1,0 +1,12 @@
+location:
+  address: Boronia Rd, Wantirna VIC 3152
+  google_maps: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d201633.7604112468!2d144.96800532499998!3d-37.8479459!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad63c074c406495%3A0xf9d048fee83aa014!2sKing%20Bean%20Cafe!5e0!3m2!1sen!2sau!4v1656233381252!5m2!1sen!2sau
+  locale: en-AU
+
+socials:
+  - platform: Facebook
+    link: https://www.facebook.com/kingbeancafe/
+  - platform: email
+    link: mailto:ipsfam@hotmail.com
+  - platform: phone
+    link: tel:0382038201

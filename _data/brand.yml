@@ -1,0 +1,5 @@
+name: King Bean
+description: King Bean is a casual venue offering a variety or meals and drinks. With indoor and outdoor seating, it's a great place for breakfast or lunch all year round. The restaurant is licensed and BYO ($5 corkage) and is also available for private functions.
+color_profile: light  # options: light, dark, pink
+font_profile: formal  # options: futuristic, rustic, cursive, formal
+accent_color: "#5D3B18"
